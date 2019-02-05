@@ -1,6 +1,6 @@
 <html>
   <body>
     <h1>Eerste Git pagina </h1>
-    <p></p>
+    <p>Nog meer tekst</p>
   </body>
 </html>
