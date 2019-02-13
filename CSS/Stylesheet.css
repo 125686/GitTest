@@ -57,3 +57,12 @@ body{
   color: blue;
   background-color: white;
 }
+
+
+.textbox {
+  display: block;
+  margin-top: 500px;
+  text-align: center;
+  background-color: white;
+
+}
