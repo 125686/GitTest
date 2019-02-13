@@ -44,5 +44,5 @@ body{
  font-size: 16px;
  border: none;
  cursor: pointer;
- float: center;
+ opacity: 0.7;
 }
