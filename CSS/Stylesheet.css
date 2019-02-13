@@ -5,4 +5,28 @@ body{
   font-weight: medium;
 }
 
-#header
+.header{
+  background-color: mediumblue;
+  padding: 80px;
+  opacity: 0.4;
+}
+
+#header{
+  background-color: white;
+  margin-top: 0px;
+  margin-left: 210px;
+  padding: 50px;
+  opacity: 0.8;
+}
+
+
+.Image{
+  float:left;
+  background-color: white;
+  margin-top: 0px;
+  padding: 50px;
+  opacity: 0.7;
+  text-align: left;
+  width: 100%;
+
+}
