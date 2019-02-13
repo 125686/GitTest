@@ -58,10 +58,26 @@ body{
   background-color: white;
 }
 
-
-.textbox {
+#textbox0 {
   display: block;
   margin-top: 500px;
+  text-align: center;
+  background-color: blue;
+
+}
+
+
+#textbox1 {
+  display: block;
+  margin-top: 500px;
+  text-align: center;
+  background-color: white;
+
+}
+
+#textbox2 {
+  display: block;
+  margin-top: 100px;
   text-align: center;
   background-color: white;
 
