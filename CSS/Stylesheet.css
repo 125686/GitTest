@@ -34,15 +34,17 @@ body{
   text-align: center;
   overflow: hidden;
   background-color: mediumblue;
-  opacity: 0.7;
+
+  /* opacity: 0.7; */
 }
 
 .dropbtn{
-  background-color: blue;
+  background-color: green;
  color: white;
  padding: 16px;
  font-size: 16px;
  border: none;
  cursor: pointer;
- float: center;
+ position: center;
+ /* opacity: 0.7; */
 }
