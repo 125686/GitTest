@@ -65,7 +65,6 @@ body{
   margin-top: 350px;
   text-align: center;
   background-color: blue;
-<<<<<<< HEAD
 
 }
 
@@ -88,18 +87,25 @@ body{
 
 }
 
+
+#textbox3 {
+  display: block;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 500px;
+  margin-top: 90px;
+  padding-top: 20px;
+  padding-bottom: 90px;
+  text-align: left;
+  background-color: LightGray;
+  border-style: black;
+
+}
+
 .footer {
   margin-top: 200px;
   padding: 20px;
   text-align: center;
   background: aqua;
   opacity: 0.7;
-=======
- color: white;
- padding: 16px;
- font-size: 16px;
- border: none;
- cursor: pointer;
- opacity: 0.7;
->>>>>>> 668c756d3d58e5b75b63f210ab7c06e1d138344d
 }
